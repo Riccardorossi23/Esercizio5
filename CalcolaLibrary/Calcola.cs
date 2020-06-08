@@ -8,6 +8,7 @@ namespace CalcolaLibrary
 {
     public class Calcola
     {
+
         public static double Raddoppia(double num)
         {
             double resp = 0;

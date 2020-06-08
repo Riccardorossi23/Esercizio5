@@ -57,6 +57,7 @@ namespace CalcolaLibrary.Tests
             double risposta_aspettata = 95.22;
             double sommamonete = Calcola.SommaMonete(monete);
             Assert.AreEqual(risposta_aspettata, sommamonete);
+
         }
     }
 }
